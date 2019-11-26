@@ -3,6 +3,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -601,11 +602,12 @@ a:hover {
   vertical-align: middle;
 }
 #header4-e .heading-title {
-  color: #8acdbc;
+  color: #fffffd;
   font-size: 100px;
 }
 #header4-e .heading-text {
   font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #custom-html-o {
   /* Type valid CSS here */
