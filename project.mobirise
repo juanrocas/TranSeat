@@ -217,13 +217,13 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
