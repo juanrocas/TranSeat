@@ -202,7 +202,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n                            <div class=\"iframe\">\n                                \n    <iframe id=\"JotFormIFrame-92746566442163\" title=\"Book your Ride\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" allow=\"geolocation; microphone; camera\" src=\"https://form.jotform.com/92746566442163\" frameborder=\"0\" style=\"\n      min-width: 100%;\n      height:1280px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}\n                            </div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n                            <div class=\"iframe\">\n                                 \n    <iframe id=\"JotFormIFrame-92746566442163\" title=\"Book your Ride\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" allow=\"geolocation; microphone; camera\" src=\"https://form.jotform.com/92746566442163\" frameborder=\"0\" style=\"\n      min-width: 100%;\n      height:1280px;\n      border:none;\" scrolling=\"no\">\n        \n       \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n    </iframe>\n    {JS_CODE_0}\n                            </div>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -239,57 +239,6 @@
           ],
           "_name": "footer3",
           "_anchor": "footer3-q"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": 70,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#094587",
-            "containerColor2": "#3adcdc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/06.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Intro with Media",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-s",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero header3 header6 mbr-after-navbar\" data-rv-view=\"11\" style=\"padding-top: 150px; padding-bottom: 150px; background: linear-gradient(to right top, rgb(9, 69, 135), rgb(58, 220, 220)) rgb(9, 69, 135);\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/06.jpg\"></div>\n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"18\">Intro with Media</h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"19\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.</p>\n                            </div>\n\n                            <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"20\">Learn more</a></div>\n\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    \n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
         }
       ]
     }
