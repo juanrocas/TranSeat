@@ -202,7 +202,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n    <iframe id=\"JotFormIFrame-92746566442163\" title=\"Book your Ride\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" allow=\"geolocation; microphone; camera\" src=\"https://form.jotform.com/92746566442163\" frameborder=\"0\" style=\"\n      min-width: 100%;\n      height:1080px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}\n       \n                                \n                                \n                                \n                                \n                              ",
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-92746566442163\" title=\"Book your Ride\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" allow=\"geolocation; microphone; camera\" src=\"https://form.jotform.com/92746566442163\" frameborder=\"0\" style=\"\n      min-width: 100%;\n      height:1280px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}\n                                \n                              ",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
