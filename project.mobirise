@@ -228,11 +228,11 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "CALIFORNIA",
+          "text1": "CALIFORNIA<br><br>",
           "text2": "<a href=\"tel:+1 408 430-12-19\">+1 408 430-12-19</a>",
           "title1": "CALL US",
           "title2": "mORGAN HILL - GILROY - SAN MARTIN",
-          "title3": "Need help?",
+          "title3": "Need help <br>OR <br>SPECIAL ACOMODATIONS?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1 408 430-12-19\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
           "_tags": [
             "Theme"
