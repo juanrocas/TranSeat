@@ -586,7 +586,7 @@ a:hover {
 }
 #menu1-i .link[aria-expanded="true"],
 #menu1-i .dropdown-item[aria-expanded="true"] {
-  color: #667bb1!important;
+  color: #2b4484!important;
 }
 #menu1-i .btn {
   font-size: 24px;
@@ -608,10 +608,4 @@ a:hover {
 #header4-e .heading-text {
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
-}
-#custom-html-o {
-  /* Type valid CSS here */
-}
-#custom-html-o .my-image {
-  width: 100%;
 }
