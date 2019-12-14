@@ -38,7 +38,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -132,7 +132,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html#custom-html-o\">BOOK NOW</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://bookridesonline.com/book/?dbaid=hgRBXLwFMlbWOibWfSyQUg%3d%3d\">BOOK NOW</a></li>",
           "logo": {
             "image": {
               "active": true,
