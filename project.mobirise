@@ -201,31 +201,6 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9
-          },
-          "text1": "CALIFORNIA<br><br>",
-          "text2": "<a href=\"tel:+1 408 430-12-19\">+1 408 430-12-19</a>",
-          "title1": "CALL US",
-          "title2": "mORGAN HILL - GILROY - SAN MARTIN",
-          "title3": "Need help <br>OR <br>SPECIAL ACOMODATIONS?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1 408 430-12-19\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-q"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -259,6 +234,31 @@
           ],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  margin-bottom: 1rem;\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
           "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "text1": "CALIFORNIA<br><br>",
+          "text2": "<a href=\"tel:+1 408 430-12-19\">+1 408 430-12-19</a>",
+          "title1": "CALL US",
+          "title2": "mORGAN HILL - GILROY - SAN MARTIN",
+          "title3": "Need help <br>OR <br>SPECIAL ACOMODATIONS?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+1 408 430-12-19\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-q"
         }
       ]
     }
