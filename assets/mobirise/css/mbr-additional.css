@@ -611,7 +611,6 @@ a:hover {
 }
 #header5-x .mbr-section-title,
 #header5-x .mbr-section-subtitle {
-  margin-bottom: 1rem;
   color: #ffffff;
 }
 #header5-x .mbr-iconfont {
@@ -620,17 +619,6 @@ a:hover {
 }
 #header5-x .mbr-table-cell {
   vertical-align: middle;
-}
-#custom-html-11 {
-  /* Type valid CSS here */
-}
-#custom-html-11 .my-image {
-  width: 100%;
-}
-#custom-html-11 .container-fluid {
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 1920px;
+  height: 1280px;
 }

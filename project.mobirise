@@ -232,7 +232,7 @@
           "_JSplaceholders": [
             "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
           ],
-          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  margin-bottom: 1rem;\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n    color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n  width: 1920px;\n  height: 1280px;\n    \n}\n",
           "_customTemplate": true
         },
         {
@@ -259,22 +259,6 @@
           ],
           "_name": "footer3",
           "_anchor": "footer3-q"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">\n\n\n<div class=\"container-fluid\">\n    \n    <div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}\n    \n    </div>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.container-fluid {\n  width: 100%;\n  padding-right: 15px;\n  padding-left: 15px;\n  margin-right: auto;\n  margin-left: auto;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-11",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
-          ]
         }
       ]
     }
