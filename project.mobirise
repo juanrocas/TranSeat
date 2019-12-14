@@ -38,7 +38,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -206,28 +206,34 @@
             "showButtons": false,
             "contentAlign": "center",
             "showArrow": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "showFeatures": false,
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#fff",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
             "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#631c70",
-            "containerColor2": "#3ca8c7",
+            "bgColorRadio": false,
+            "bgColor": "#5b5f6b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#616161",
-            "overlayOpacity": 0.8
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
-          "title": "Gradient Header",
+          "title": "Full Screen Intro",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "media1": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "mobirise",
+              "name": "mobile",
               "link": "https://mobirise.com",
               "size": 40,
               "family": "MobiriseIcons"
@@ -255,7 +261,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "devices",
+              "name": "mobirise",
               "link": "https://mobirise.com",
               "size": 40,
               "family": "MobiriseIcons"
@@ -269,7 +275,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "phone",
+              "name": "devices",
               "link": "https://mobirise.com",
               "size": 40,
               "family": "MobiriseIcons"
@@ -282,14 +288,14 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-12",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header1 header2 mbr-after-navbar\" data-rv-view=\"90\" style=\"background: linear-gradient(to right top, rgb(99, 28, 112), rgb(60, 168, 199)) rgb(99, 28, 112);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            \n            \n            \n<div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}                \n            \n            \n            \n            \n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    \n                    \n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_name": "header1",
+          "_anchor": "header1-13",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header1 mbr-after-navbar\" data-rv-view=\"93\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n        \n        \n        \n        \n<div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}                \n            \n        \n        \n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    \n                    \n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
           ],
-          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: left;\n}\n",
+          "_customCSS": ".mbr-iconfont {\n  color: #fff;\n  border-color: #fff;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
           "_customTemplate": true
         },
         {

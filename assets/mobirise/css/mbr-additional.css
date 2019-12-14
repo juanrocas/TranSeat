@@ -609,14 +609,10 @@ a:hover {
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
 }
-#header2-12 .mbr-section-title,
-#header2-12 .mbr-section-subtitle {
-  color: #ffffff;
+#header1-13 .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
 }
-#header2-12 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#header2-12 .mbr-table-cell {
-  vertical-align: left;
+#header1-13 .mbr-table-cell {
+  vertical-align: middle;
 }
