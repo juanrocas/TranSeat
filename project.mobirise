@@ -132,7 +132,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html#header5-x\">BOOK NOW</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"index.html#header1-13\">BOOK NOW</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -177,7 +177,7 @@
           },
           "title": "TranSeat",
           "text": "Door to Door transportation<br>Home - Airport - Office - Events<br>Individual - Groups<br><i>The San Francisco south-bay's choice in transportation</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"index.html#header5-x\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"index.html#header1-13\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "_tags": [
             "Theme"
           ],
