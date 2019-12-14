@@ -621,3 +621,10 @@ a:hover {
 #header5-x .mbr-table-cell {
   vertical-align: middle;
 }
+#header1-y .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#header1-y .mbr-table-cell {
+  vertical-align: middle;
+}
