@@ -38,7 +38,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 36,
+    "uniqCompNum": 38,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -237,54 +237,6 @@
         },
         {
           "_params": {
-            "autoplay": false,
-            "timeout": 5,
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "showBullets": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#5b5f6b",
-            "overlayOpacity": 0.95,
-            "slides": [
-              {
-                "active": true,
-                "showButtons": false,
-                "showImage": false,
-                "showText": false,
-                "showTitle": false,
-                "image": "@THEME_PATH@/components/_images/features/03.png",
-                "title": "No coding and free!",
-                "contentAlign": "center",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio facilis optio amet eum tenetur quos quam, autem culpa, illo, nemo itaque at placeat blanditiis.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-z",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container carousel slide features1 mbr-section-nopadding mbr-after-navbar\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"false\" data-rv-view=\"45\" style=\"background-color: rgb(255, 255, 255);\">\n    \n    <div class=\"container boxed-slider\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        \n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"carousel-item dark center active\">\n                    <div class=\"container-slide\">\n                        <div class=\"row\">\n                            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                                \n                                \n<div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}\n                                \n                            </div>\n                            <div class=\"col-xs-12\">\n                                \n                            </div>\n                        </div>\n                </div>\n            </div>\n        </div>\n\n \n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
-          ],
-          "_customCSS": "",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": false,
@@ -307,6 +259,22 @@
           ],
           "_name": "footer3",
           "_anchor": "footer3-q"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">\n\n\n<div class=\"container-fluid\">\n    \n    <div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}\n    \n    </div>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.container-fluid {\n  width: 100%;\n  padding-right: 15px;\n  padding-left: 15px;\n  margin-right: auto;\n  margin-left: auto;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-11",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
+          ]
         }
       ]
     }
