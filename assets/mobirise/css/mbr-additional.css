@@ -622,3 +622,9 @@ a:hover {
   display: block !important;
   font-size: 100% !important;
 }
+#custom-html-15 {
+  /* Type valid CSS here */
+}
+#custom-html-15 .my-image {
+  width: 100%;
+}
