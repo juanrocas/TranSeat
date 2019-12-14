@@ -38,7 +38,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -223,6 +223,42 @@
           ],
           "_name": "footer3",
           "_anchor": "footer3-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#084a6e",
+            "containerColor2": "#24a383",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gradient Header",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-x",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header5 mbr-after-navbar\" data-rv-view=\"7\" style=\"background: linear-gradient(to right top, rgb(8, 74, 110), rgb(36, 163, 131)) rgb(8, 74, 110);\">\n\n    \n        \n    <div class=\"mbr-table-cell\">\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 text-xs-center col-md-offset-1\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"10\">Gradient Header</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"11\">Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"12\">Download for Windows</a></div>\n                </div>\n            </div>\n        </div>\n    </div>    \n    \n    <div id=\"bro_reservation\"></div><input type=\"hidden\" id=\"cid\" value=\"uITmpdnMW3H7OvJp6Eo8Sg%3d%3d\"><input type=\"hidden\" id=\"dbaid\" value=\"hgRBXLwFMlbWOibWfSyQUg%3d%3d\"> {JS_CODE_0}\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
+          ],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  margin-bottom: 1rem;\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
