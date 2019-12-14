@@ -289,7 +289,7 @@
           "_JSplaceholders": [
             "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
           ],
-          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  color: #ffffff;\n}\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: left;\n}\n",
           "_customTemplate": true
         },
         {
