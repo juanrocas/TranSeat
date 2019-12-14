@@ -295,7 +295,7 @@
           "_JSplaceholders": [
             "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
           ],
-          "_customCSS": ".mbr-iconfont {\n  color: #fff;\n  border-color: #fff;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
+          "_customCSS": ".mbr-iconfont {\n  color: #fff;\n  border-color: #fff;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n\n.uib-datepicker-popup.dropdown-menu {\n    width: auto;\n    min-width: 289px;\n    display: block !important;\n    font-size: 100% !important;\n}\n\n\n",
           "_customTemplate": true
         },
         {

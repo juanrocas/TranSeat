@@ -616,3 +616,9 @@ a:hover {
 #header1-13 .mbr-table-cell {
   vertical-align: middle;
 }
+#header1-13 .uib-datepicker-popup.dropdown-menu {
+  width: auto;
+  min-width: 289px;
+  display: block !important;
+  font-size: 100% !important;
+}
