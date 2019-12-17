@@ -38,7 +38,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/fordexplorer-128x96-1.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
