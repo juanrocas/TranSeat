@@ -35,10 +35,10 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/fordexplorer-128x96-1.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 42,
+    "uniqCompNum": 33,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -136,7 +136,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -296,7 +296,16 @@
             "<script type='text/javascript'> (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://bookridesonline.com/web/reservation.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>"
           ],
           "_customCSS": ".mbr-iconfont {\n  color: #fff;\n  border-color: #fff;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n\n.uib-datepicker-popup.dropdown-menu {\n    width: auto;\n    min-width: 289px;\n    display: block !important;\n    font-size: 100% !important;\n}\n\n\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
         },
         {
           "_params": {
