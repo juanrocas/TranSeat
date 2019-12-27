@@ -38,7 +38,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/fordexplorer-128x96-1.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 35,
+    "uniqCompNum": 33,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -177,7 +177,7 @@
           },
           "title": "TranSeat",
           "text": "Door to Door transportation<br>Home - Airport - Office - Events<br>Individual - Groups<br><i>The San Francisco south-bay's choice in transportation</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"index.html#header1-13\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://bookridesonline.com/book/?dbaid=hgRBXLwFMlbWOibWfSyQUg%3d%3d\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "_tags": [
             "Theme"
           ],
